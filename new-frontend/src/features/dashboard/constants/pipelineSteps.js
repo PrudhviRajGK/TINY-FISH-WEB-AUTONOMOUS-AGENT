@@ -1,0 +1,58 @@
+export const pipelineSteps = [
+    {
+        key: 'extraction',
+        label: 'FETCH NEWS',
+        icon: 'article',
+        statusText: 'Fetching Economic Times articles',
+        durationMs: 3000,
+    },
+    {
+        key: 'analysis',
+        label: 'TREND ANALYSIS',
+        icon: 'analytics',
+        statusText: 'Analyzing trending topics',
+        durationMs: 3000,
+    },
+    {
+        key: 'script',
+        label: 'VIRAL SCRIPT',
+        icon: 'description',
+        statusText: 'Generating viral script',
+        durationMs: 4000,
+    },
+    {
+        key: 'image',
+        label: 'VISUALS',
+        icon: 'image',
+        statusText: 'Generating visuals',
+        durationMs: 7000,
+    },
+    {
+        key: 'voice',
+        label: 'NARRATION',
+        icon: 'mic',
+        statusText: 'Generating voice narration',
+        durationMs: 6000,
+    },
+    {
+        key: 'subtitles',
+        label: 'SUBTITLES',
+        icon: 'subtitles',
+        statusText: 'Adding subtitles',
+        durationMs: 4000,
+    },
+    {
+        key: 'assembly',
+        label: 'ASSEMBLY',
+        icon: 'inventory_2',
+        statusText: 'Assembling video',
+        durationMs: 5000,
+    },
+    {
+        key: 'publishing',
+        label: 'METADATA',
+        icon: 'publish',
+        statusText: 'Generating metadata',
+        durationMs: 0,
+    },
+];

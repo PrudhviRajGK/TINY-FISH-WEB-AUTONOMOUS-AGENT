@@ -1,0 +1,115 @@
+{
+  "topic": "India's economic ties with Azerbaijan improve despite political drift",
+  "language": "en",
+  "audio_script": [
+    {
+      "timestamp": "00:00",
+      "text": "India\u2019s cash is flowing to Azerbaijan like never before!",
+      "speaker": "narrator_male",
+      "speed": 1.0,
+      "pitch": 1.0,
+      "emotion": "excited"
+    },
+    {
+      "timestamp": "00:03",
+      "text": "In 2025, India's investments in Azerbaijan shot up by a whopping 29.8% to hit $56.047 million!",
+      "speaker": "narrator_male",
+      "speed": 1.0,
+      "pitch": 1.0,
+      "emotion": "excited"
+    },
+    {
+      "timestamp": "00:13",
+      "text": "This surge shows the growing economic partnership between the two countries, despite stagnant political ties.",
+      "speaker": "narrator_male",
+      "speed": 1.0,
+      "pitch": 1.0,
+      "emotion": "informative"
+    },
+    {
+      "timestamp": "00:23",
+      "text": "And get this - total Indian investments in Azerbaijan have rocketed from $480 million in 2016 to $1.26 billion in 2025!",
+      "speaker": "narrator_male",
+      "speed": 1.0,
+      "pitch": 1.0,
+      "emotion": "excited"
+    },
+    {
+      "timestamp": "00:31",
+      "text": "Follow for more business news!",
+      "speaker": "narrator_male",
+      "speed": 1.0,
+      "pitch": 1.0,
+      "emotion": "informative"
+    }
+  ],
+  "visual_script": [
+    {
+      "timestamp_start": "00:00",
+      "timestamp_end": "00:03",
+      "prompt": "Bold text with news headline",
+      "negative_prompt": "Avoid abstract"
+    },
+    {
+      "timestamp_start": "00:03",
+      "timestamp_end": "00:13",
+      "prompt": "Graph showing increasing investment trend",
+      "negative_prompt": "Avoid abstract"
+    },
+    {
+      "timestamp_start": "00:13",
+      "timestamp_end": "00:23",
+      "prompt": "Two country flags intertwined",
+      "negative_prompt": "Avoid abstract"
+    },
+    {
+      "timestamp_start": "00:23",
+      "timestamp_end": "00:31",
+      "prompt": "Bar chart showing increase from 2016 to 2025",
+      "negative_prompt": "Avoid abstract"
+    },
+    {
+      "timestamp_start": "00:31",
+      "timestamp_end": "00:36",
+      "prompt": "Call to action screen",
+      "negative_prompt": "Avoid abstract"
+    }
+  ],
+  "segments": [
+    {
+      "timestamp_start": "00:00",
+      "timestamp_end": "00:03",
+      "text": "India\u2019s cash is flowing to Azerbaijan like never before!",
+      "visual_description": "Bold headline",
+      "segment_type": "hook"
+    },
+    {
+      "timestamp_start": "00:03",
+      "timestamp_end": "00:13",
+      "text": "In 2025, India's investments in Azerbaijan shot up by a whopping 29.8% to hit $56.047 million!",
+      "visual_description": "Graph showing increasing investment trend",
+      "segment_type": "news"
+    },
+    {
+      "timestamp_start": "00:13",
+      "timestamp_end": "00:23",
+      "text": "This surge shows the growing economic partnership between the two countries, despite stagnant political ties.",
+      "visual_description": "Two country flags intertwined",
+      "segment_type": "why_matters"
+    },
+    {
+      "timestamp_start": "00:23",
+      "timestamp_end": "00:31",
+      "text": "And get this - total Indian investments in Azerbaijan have rocketed from $480 million in 2016 to $1.26 billion in 2025!",
+      "visual_description": "Bar chart showing increase from 2016 to 2025",
+      "segment_type": "key_fact"
+    },
+    {
+      "timestamp_start": "00:31",
+      "timestamp_end": "00:36",
+      "text": "Follow for more business news!",
+      "visual_description": "CTA screen",
+      "segment_type": "ending"
+    }
+  ]
+}

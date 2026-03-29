@@ -1,0 +1,115 @@
+{
+  "topic": "OpenAI launches GPT-5 with record-breaking capabilities",
+  "language": "hi",
+  "audio_script": [
+    {
+      "timestamp": "00:00",
+      "text": "\u0906\u0908\u090f\u0906\u0908 \u0915\u093e \u0906\u0917\u093c\u093e\u091c\u093c \u0938\u0947 \u0939\u0940 \u0930\u093f\u0915\u0949\u0930\u094d\u0921 \u0924\u094b\u0921\u093c\u093e!",
+      "speaker": "narrator_male",
+      "speed": 1.0,
+      "pitch": 1.0,
+      "emotion": "informative"
+    },
+    {
+      "timestamp": "00:03",
+      "text": "OpenAI \u0928\u0947 GPT-5 \u0932\u0949\u0928\u094d\u091a \u0915\u093f\u092f\u093e \u0939\u0948, \u091c\u094b \u0905\u092c \u0924\u0915 \u0915\u093e \u0938\u092c\u0938\u0947 \u0936\u0915\u094d\u0924\u093f\u0936\u093e\u0932\u0940 \u092e\u0949\u0921\u0932 \u0939\u0948\u0964",
+      "speaker": "narrator_male",
+      "speed": 1.0,
+      "pitch": 1.0,
+      "emotion": "informative"
+    },
+    {
+      "timestamp": "00:13",
+      "text": "\u0907\u0938\u0915\u093e \u0905\u0938\u0930? \u092e\u0947\u0921\u093f\u0938\u093f\u0928, \u0932\u0949, \u0915\u094b\u0921\u093f\u0902\u0917 - \u0907\u0938\u0928\u0947 \u092e\u093e\u0928\u0935 \u0935\u093f\u0936\u0947\u0937\u091c\u094d\u091e\u094b\u0902 \u0915\u094b \u0939\u0930\u093e\u092f\u093e \u0939\u0948!",
+      "speaker": "narrator_male",
+      "speed": 1.0,
+      "pitch": 1.0,
+      "emotion": "informative"
+    },
+    {
+      "timestamp": "00:23",
+      "text": "\u0914\u0930 \u0939\u093e\u0902, \u0907\u0938\u0915\u0940 \u0915\u0940\u092e\u0924? 300 \u0905\u0930\u092c \u0921\u0949\u0932\u0930!",
+      "speaker": "narrator_male",
+      "speed": 1.0,
+      "pitch": 1.0,
+      "emotion": "informative"
+    },
+    {
+      "timestamp": "00:31",
+      "text": "\u0914\u0930 \u092c\u093f\u091c\u093c\u0928\u0947\u0938 \u0928\u094d\u092f\u0942\u091c\u093c \u0915\u0947 \u0932\u093f\u090f \u092b\u0949\u0932\u094b \u0915\u0930\u0947\u0902!",
+      "speaker": "narrator_male",
+      "speed": 1.0,
+      "pitch": 1.0,
+      "emotion": "informative"
+    }
+  ],
+  "visual_script": [
+    {
+      "timestamp_start": "00:00",
+      "timestamp_end": "00:03",
+      "prompt": "Bold text with news headline",
+      "negative_prompt": "Avoid abstract"
+    },
+    {
+      "timestamp_start": "00:03",
+      "timestamp_end": "00:13",
+      "prompt": "OpenAI GPT-5 logo or related visual",
+      "negative_prompt": "Avoid abstract"
+    },
+    {
+      "timestamp_start": "00:13",
+      "timestamp_end": "00:23",
+      "prompt": "Visualization of different professionals",
+      "negative_prompt": "Avoid abstract"
+    },
+    {
+      "timestamp_start": "00:23",
+      "timestamp_end": "00:31",
+      "prompt": "Data visualization of 300 billion dollars",
+      "negative_prompt": "Avoid abstract"
+    },
+    {
+      "timestamp_start": "00:31",
+      "timestamp_end": "00:36",
+      "prompt": "Follow for more news call to action screen",
+      "negative_prompt": "Avoid abstract"
+    }
+  ],
+  "segments": [
+    {
+      "timestamp_start": "00:00",
+      "timestamp_end": "00:03",
+      "text": "\u0906\u0908\u090f\u0906\u0908 \u0915\u093e \u0906\u0917\u093c\u093e\u091c\u093c \u0938\u0947 \u0939\u0940 \u0930\u093f\u0915\u0949\u0930\u094d\u0921 \u0924\u094b\u0921\u093c\u093e!",
+      "visual_description": "Bold headline",
+      "segment_type": "hook"
+    },
+    {
+      "timestamp_start": "00:03",
+      "timestamp_end": "00:13",
+      "text": "OpenAI \u0928\u0947 GPT-5 \u0932\u0949\u0928\u094d\u091a \u0915\u093f\u092f\u093e \u0939\u0948, \u091c\u094b \u0905\u092c \u0924\u0915 \u0915\u093e \u0938\u092c\u0938\u0947 \u0936\u0915\u094d\u0924\u093f\u0936\u093e\u0932\u0940 \u092e\u0949\u0921\u0932 \u0939\u0948\u0964",
+      "visual_description": "GPT-5 launch visual",
+      "segment_type": "news"
+    },
+    {
+      "timestamp_start": "00:13",
+      "timestamp_end": "00:23",
+      "text": "\u0907\u0938\u0915\u093e \u0905\u0938\u0930? \u092e\u0947\u0921\u093f\u0938\u093f\u0928, \u0932\u0949, \u0915\u094b\u0921\u093f\u0902\u0917 - \u0907\u0938\u0928\u0947 \u092e\u093e\u0928\u0935 \u0935\u093f\u0936\u0947\u0937\u091c\u094d\u091e\u094b\u0902 \u0915\u094b \u0939\u0930\u093e\u092f\u093e \u0939\u0948!",
+      "visual_description": "Impact visual",
+      "segment_type": "why_matters"
+    },
+    {
+      "timestamp_start": "00:23",
+      "timestamp_end": "00:31",
+      "text": "\u0914\u0930 \u0939\u093e\u0902, \u0907\u0938\u0915\u0940 \u0915\u0940\u092e\u0924? 300 \u0905\u0930\u092c \u0921\u0949\u0932\u0930!",
+      "visual_description": "300 billion dollars visual",
+      "segment_type": "key_fact"
+    },
+    {
+      "timestamp_start": "00:31",
+      "timestamp_end": "00:36",
+      "text": "\u0914\u0930 \u092c\u093f\u091c\u093c\u0928\u0947\u0938 \u0928\u094d\u092f\u0942\u091c\u093c \u0915\u0947 \u0932\u093f\u090f \u092b\u0949\u0932\u094b \u0915\u0930\u0947\u0902!",
+      "visual_description": "CTA screen",
+      "segment_type": "ending"
+    }
+  ]
+}

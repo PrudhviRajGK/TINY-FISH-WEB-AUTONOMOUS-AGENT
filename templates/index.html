@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Generator</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Video Generator</h1>
+            <p>Create educational videos powered by AI</p>
+        </header>
+
+        <main>
+            <form id="videoForm">
+                <div class="form-group">
+                    <label for="topic">Topic</label>
+                    <input 
+                        type="text" 
+                        id="topic" 
+                        name="topic" 
+                        placeholder="e.g., Solar System, Python Programming"
+                        required
+                    >
+                </div>
+
+                <div class="form-group">
+                    <label for="duration">Duration (seconds)</label>
+                    <input 
+                        type="number" 
+                        id="duration" 
+                        name="duration" 
+                        value="30"
+                        min="15"
+                        max="120"
+                        required
+                    >
+                </div>
+
+                <div class="form-group">
+                    <label for="keyPoints">Key Points (optional)</label>
+                    <textarea 
+                        id="keyPoints" 
+                        name="keyPoints" 
+                        placeholder="Enter key points, one per line"
+                        rows="4"
+                    ></textarea>
+                    <small>One point per line</small>
+                </div>
+
+                <button type="submit" id="generateBtn">Generate Video</button>
+            </form>
+
+            <div id="status" class="status hidden">
+                <div class="status-content">
+                    <div class="spinner hidden" id="spinner"></div>
+                    <p id="statusMessage"></p>
+                </div>
+            </div>
+
+            <div id="result" class="result hidden">
+                <h2>Generated Videos</h2>
+                <div id="videoList"></div>
+            </div>
+        </main>
+    </div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

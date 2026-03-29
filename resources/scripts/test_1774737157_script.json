@@ -1,0 +1,115 @@
+{
+  "topic": "OpenAI launches GPT-5 with record-breaking capabilities",
+  "language": "en",
+  "audio_script": [
+    {
+      "timestamp": "00:00",
+      "text": "Mind blown! OpenAI just launched something HUGE!",
+      "speaker": "narrator_male",
+      "speed": 1.0,
+      "pitch": 1.0,
+      "emotion": "excited"
+    },
+    {
+      "timestamp": "00:03",
+      "text": "Say hello to GPT-5, OpenAI's most powerful AI model yet, crushing professional benchmarks.",
+      "speaker": "narrator_male",
+      "speed": 1.0,
+      "pitch": 1.0,
+      "emotion": "excited"
+    },
+    {
+      "timestamp": "00:13",
+      "text": "This is massive! It's surpassing human experts in medicine, law, coding, you name it!",
+      "speaker": "narrator_male",
+      "speed": 1.0,
+      "pitch": 1.0,
+      "emotion": "excited"
+    },
+    {
+      "timestamp": "00:23",
+      "text": "Funding? A whopping 40 billion dollars, rocketing OpenAI\u2019s value to 300 billion dollars.",
+      "speaker": "narrator_male",
+      "speed": 1.0,
+      "pitch": 1.0,
+      "emotion": "excited"
+    },
+    {
+      "timestamp": "00:31",
+      "text": "Follow for more business news, you don't want to miss this!",
+      "speaker": "narrator_male",
+      "speed": 1.0,
+      "pitch": 1.0,
+      "emotion": "excited"
+    }
+  ],
+  "visual_script": [
+    {
+      "timestamp_start": "00:00",
+      "timestamp_end": "00:03",
+      "prompt": "OpenAI logo with an explosion effect",
+      "negative_prompt": "Avoid abstract"
+    },
+    {
+      "timestamp_start": "00:03",
+      "timestamp_end": "00:13",
+      "prompt": "GPT-5 image with benchmark numbers",
+      "negative_prompt": "Avoid abstract"
+    },
+    {
+      "timestamp_start": "00:13",
+      "timestamp_end": "00:23",
+      "prompt": "Visuals of medicine, law, and coding symbols",
+      "negative_prompt": "Avoid abstract"
+    },
+    {
+      "timestamp_start": "00:23",
+      "timestamp_end": "00:31",
+      "prompt": "Animated bar chart showing funding growth",
+      "negative_prompt": "Avoid abstract"
+    },
+    {
+      "timestamp_start": "00:31",
+      "timestamp_end": "00:36",
+      "prompt": "Dynamic 'Follow' button with business news icons",
+      "negative_prompt": "Avoid abstract"
+    }
+  ],
+  "segments": [
+    {
+      "timestamp_start": "00:00",
+      "timestamp_end": "00:03",
+      "text": "Mind blown! OpenAI just launched something HUGE!",
+      "visual_description": "OpenAI logo with an explosion effect",
+      "segment_type": "hook"
+    },
+    {
+      "timestamp_start": "00:03",
+      "timestamp_end": "00:13",
+      "text": "Say hello to GPT-5, OpenAI's most powerful AI model yet, crushing professional benchmarks.",
+      "visual_description": "GPT-5 image with benchmark numbers",
+      "segment_type": "news"
+    },
+    {
+      "timestamp_start": "00:13",
+      "timestamp_end": "00:23",
+      "text": "This is massive! It's surpassing human experts in medicine, law, coding, you name it!",
+      "visual_description": "Visuals of medicine, law, and coding symbols",
+      "segment_type": "why_matters"
+    },
+    {
+      "timestamp_start": "00:23",
+      "timestamp_end": "00:31",
+      "text": "Funding? A whopping 40 billion dollars, rocketing OpenAI\u2019s value to 300 billion dollars.",
+      "visual_description": "Animated bar chart showing funding growth",
+      "segment_type": "key_fact"
+    },
+    {
+      "timestamp_start": "00:31",
+      "timestamp_end": "00:36",
+      "text": "Follow for more business news, you don't want to miss this!",
+      "visual_description": "Dynamic 'Follow' button with business news icons",
+      "segment_type": "ending"
+    }
+  ]
+}
